@@ -17,4 +17,4 @@ This notebook attempts to evaluate the performance of a binary classification bu
 - Classification Report (Accuracy Precision F1-Score)
 - ROC Curve
 - Confusion Matrix
-
+- Profit and Loss (PNL) Graph 
